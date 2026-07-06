@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+*.pyc
+.DS_Store
+*.mov
+
+# Ignore downloaded YOLO weights
+*.pt
+yolov8n.pt
+
+# Ignore Ultralytics run logs
+runs/
