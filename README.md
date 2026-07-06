@@ -67,6 +67,16 @@ Streamlit Dashboard
 
 ---
 
+## Business Problem
+
+Large logistics hubs and smart city deployments require real-time vehicle monitoring to improve traffic flow, reduce congestion, and optimize fleet operations.
+
+Uploading continuous video streams to the cloud introduces latency, increases bandwidth costs, and may violate data governance policies.
+
+This project demonstrates an edge-first computer vision solution that performs inference locally using YOLOv8.
+
+---
+
 ## 📂 Project Structure
 
 ```
